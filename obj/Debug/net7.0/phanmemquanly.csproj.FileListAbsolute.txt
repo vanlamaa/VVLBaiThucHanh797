@@ -1,0 +1,15 @@
+C:\Users\WINDOWS\Desktop\qqq\phanmemquanly\obj\Debug\net7.0\phanmemquanly.csproj.AssemblyReference.cache
+C:\Users\WINDOWS\Desktop\qqq\phanmemquanly\obj\Debug\net7.0\phanmemquanly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS\Desktop\qqq\phanmemquanly\obj\Debug\net7.0\phanmemquanly.AssemblyInfoInputs.cache
+C:\Users\WINDOWS\Desktop\qqq\phanmemquanly\obj\Debug\net7.0\phanmemquanly.AssemblyInfo.cs
+C:\Users\WINDOWS\Desktop\qqq\phanmemquanly\obj\Debug\net7.0\phanmemquanly.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\Desktop\qqq\phanmemquanly\bin\Debug\net7.0\phanmemquanly.exe
+C:\Users\WINDOWS\Desktop\qqq\phanmemquanly\bin\Debug\net7.0\phanmemquanly.deps.json
+C:\Users\WINDOWS\Desktop\qqq\phanmemquanly\bin\Debug\net7.0\phanmemquanly.runtimeconfig.json
+C:\Users\WINDOWS\Desktop\qqq\phanmemquanly\bin\Debug\net7.0\phanmemquanly.dll
+C:\Users\WINDOWS\Desktop\qqq\phanmemquanly\bin\Debug\net7.0\phanmemquanly.pdb
+C:\Users\WINDOWS\Desktop\qqq\phanmemquanly\obj\Debug\net7.0\phanmemquanly.dll
+C:\Users\WINDOWS\Desktop\qqq\phanmemquanly\obj\Debug\net7.0\refint\phanmemquanly.dll
+C:\Users\WINDOWS\Desktop\qqq\phanmemquanly\obj\Debug\net7.0\phanmemquanly.pdb
+C:\Users\WINDOWS\Desktop\qqq\phanmemquanly\obj\Debug\net7.0\phanmemquanly.genruntimeconfig.cache
+C:\Users\WINDOWS\Desktop\qqq\phanmemquanly\obj\Debug\net7.0\ref\phanmemquanly.dll
